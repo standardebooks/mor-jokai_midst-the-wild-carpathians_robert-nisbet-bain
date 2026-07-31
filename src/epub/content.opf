@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/mor-jokai/midst-the-wild-carpathians/robert-nisbet-bain</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-07-31T14:40:15Z</dc:date>
+		<meta property="dcterms:modified">2026-07-31T14:40:15Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -41,19 +41,19 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<meta id="collection-1" property="belongs-to-collection">Prince Apafi Novels</meta>
+		<meta id="collection-1" property="belongs-to-collection">Prince Apafi</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">The newly-placed Prince of Transylvania must defend his realm against foreign influence.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;After being released from Tartar captivity, Michael Apafi, a Transylvanian noble, is installed as Prince of Transylvania by the Ottoman Sultan. He must now secure his authority and deal with conflicting interests both domestic and foreign. With his realm located between the Ottoman Sultan and the Austrian Emperor, its independence and rights are in constant danger of invasion.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;’Midst the Wild Carpathians&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/mor-jokai"&gt;Mór Jókai’s&lt;/a&gt; most famous works. Written in the context of budding Hungarian nationalism, the novel is a fictionalized version of real events in 17th Century Transylvania. The story is then finished in another of Jókai’s works, &lt;i&gt;The Slaves of the Padishah&lt;/i&gt;.&lt;/p&gt;
+			&lt;p&gt;After being released from Tartar captivity, Michael Apafi, a Transylvanian noble, is installed as Prince of Transylvania by the Ottoman Sultan. He must now secure his authority and deal with conflicting interests both domestic and foreign. With his realm located between the Ottoman Sultan and the Austrian Emperor, its independence is in constant danger.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;’Midst the Wild Carpathians&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/mor-jokai"&gt;Mór Jókai’s&lt;/a&gt; most famous works. Written in the context of budding Hungarian nationalism, the novel is a fictionalized retelling of real events of 17th Century Transylvania.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37339</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.31713</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">97394</meta>
+		<meta property="schema:educationalLevel">69.72</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/mor-jokai_midst-the-wild-carpathians_robert-nisbet-bain" refines="#vcs-repository" rel="schema:codeRepository"/>
@@ -91,6 +91,9 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Lukas Bystricky</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bystricky, Lukas</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
