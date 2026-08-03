@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/mor-jokai/midst-the-wild-carpathians/robert-nisbet-bain</dc:identifier>
 		<dc:date>2026-07-31T14:40:15Z</dc:date>
@@ -44,11 +44,11 @@
 		<meta id="collection-1" property="belongs-to-collection">Prince Apafi</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:description id="description">The newly-placed Prince of Transylvania must defend his realm against foreign influence.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<dc:abstract>The newly-placed Prince of Transylvania must defend his realm against foreign influence.</dc:abstract>
+		<dc:description>
 			&lt;p&gt;After being released from Tartar captivity, Michael Apafi, a Transylvanian noble, is installed as Prince of Transylvania by the Ottoman Sultan. He must now secure his authority and deal with conflicting interests both domestic and foreign. With his realm located between the Ottoman Sultan and the Austrian Emperor, its independence is in constant danger.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;’Midst the Wild Carpathians&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/mor-jokai"&gt;Mór Jókai’s&lt;/a&gt; most famous works. Written in the context of budding Hungarian nationalism, the novel is a fictionalized retelling of real events of 17th Century Transylvania.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/37339</dc:source>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.31713</dc:source>
