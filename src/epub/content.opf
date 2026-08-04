@@ -44,7 +44,7 @@
 		<meta id="collection-1" property="belongs-to-collection">Prince Apafi</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta property="group-position" refines="#collection-1">1</meta>
-		<dc:abstract>The newly-placed Prince of Transylvania must defend his realm against foreign influence.</dc:abstract>
+		<meta property="schema:abstract">The newly-placed Prince of Transylvania must defend his realm against foreign influence.</meta>
 		<dc:description>
 			&lt;p&gt;After being released from Tartar captivity, Michael Apafi, a Transylvanian noble, is installed as Prince of Transylvania by the Ottoman Sultan. He must now secure his authority and deal with conflicting interests both domestic and foreign. With his realm located between the Ottoman Sultan and the Austrian Emperor, its independence is in constant danger.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;’Midst the Wild Carpathians&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/mor-jokai"&gt;Mór Jókai’s&lt;/a&gt; most famous works. Written in the context of budding Hungarian nationalism, the novel is a fictionalized retelling of real events of 17th Century Transylvania.&lt;/p&gt;
